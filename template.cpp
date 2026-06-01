@@ -12,7 +12,16 @@ using namespace std;
 
 int main(){
     fastio
-    /* Insira o codigo-fonte aqui */
-    
+    /* Insert your code solution here */
+    /*
+    Just an example of how to print an array
+    vector<int> three = {};
+    bool first = true;
+    for(auto i : three){
+        if(!first) cout<<" ";
+        cout<<i;
+        first=false;
+    }
+    */
     return 0;
 }
