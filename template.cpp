@@ -7,7 +7,9 @@ using namespace std;
 #define pb push_back
 #define mp make_pair
 #define ii pair<int,int>
-#define ql "\n"
+#define ye cout<<"YES\n";
+#define no cout<<"NO\n";
+#define ql cout<<"\n";
 #define fastio ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);
 
 int main(){
